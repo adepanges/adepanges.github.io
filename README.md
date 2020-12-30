@@ -7,7 +7,7 @@
   <img align="left" alt="Ade's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=adepanges.adepanges)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=adepanges.adepanges.github.io)
 
 ## I am ```Ade Pangestu```, you can call me ```Ade``` or ```Panges```
 
