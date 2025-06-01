@@ -33,12 +33,12 @@ Ade Pangestu is a Full-Stack Developer with over 9 years of experienc 3]. He spe
 ## Experience
 
 ### Companies
-## Mitrais - Software Engineer - March 2021 until now
-## Sociolla - Full Stack Developer - January 2019 until February 2021
-## Sociolla - Back End Developer - August 2018 - December 2018
-## PT. Dermeva Kosmetik Indonesia - Full Stack Web Developer - February 2018 until July 2018
-## Klik Digital Sinergi - Backend PHP Developer - March 2017 until February 2018
-## PT. TRASPAC Makmur Sejahtera - Web Software Developer - May 2015 until February 2017
+* 1. PT. TRASPAC Makmur Sejahtera - Web Software Developer - May 2015 until February 2017
+* 2. PT. Klik Digital Sinergi - Backend PHP Developer - March 2017 until February 2018
+* 3. PT. Dermeva Kosmetik Indonesia - Full Stack Web Developer - February 2018 until July 2018
+* 4. Sociolla (PT. Socia Bella Indonesia) - Back End Developer - August 2018 until December 2018
+* 5. Sociolla (PT. Socia Bella Indonesia) - Full Stack Developer - January 2019 until February 2021
+* 6. Mitrais (PT. Mitrais) - Software Engineer - March 2021 until now
 
 ---
 
