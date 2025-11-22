@@ -4,18 +4,28 @@
 
 @media print {
   @page  {
-    margin: 0;
+    margin: 0.5in;
+    size: letter;
   }
 
   body {
     -webkit-print-color-adjust: exact !important;
     print-color-adjust: exact !important;
     color: #3c3c3c !important;
+    background: white !important;
+    margin: 0 !important;
+    padding: 0 !important;
   }
 
   .page {
-    padding: theme(spacing.16) theme(spacing.16) !important;
-    height: 100vh !important;
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: none !important;
+    width: 100% !important;
+    height: auto !important;
+    box-shadow: none !important;
+    border: none !important;
+    background: white !important;
   }
 
   .initial {
@@ -32,7 +42,30 @@
   }
 
   html {
-    font-size: 11px !important;
+    font-size: 14px !important;
+  }
+
+  /* Ensure proper scaling for print */
+  main {
+    transform: scale(1) !important;
+    width: 100% !important;
+  }
+
+  /* Improve text readability */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* Remove any background colors that might interfere */
+  .bg-gray-100 {
+    background: white !important;
+  }
+
+  /* Ensure proper column layout for print */
+  .col-count-2 {
+    column-count: 2 !important;
+    column-gap: 2rem !important;
   }
 }
 

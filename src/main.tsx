@@ -7,8 +7,8 @@ import { RouterProvider } from '@tanstack/react-router';
 
 import { router } from './routes';
 
-createRoot(document.getElementById('root')!).render(
+createRoot(document.getElementById("root")!).render(
   <StrictMode>
     <RouterProvider router={router} />
-  </StrictMode>,
-)
+  </StrictMode>
+);
